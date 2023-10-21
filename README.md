@@ -10,10 +10,6 @@ Welcome to the Bubble Game repository! This is a simple web-based game where you
 
 ## Try It Out
 
-You can play the Bubble Game right now by visiting the [Live Demo](https://arslanarsal.github.io/bubble-game/).
-
-![Game Screenshot](screenshot.png)
-
 ## Technologies Used
 
 - HTML
@@ -29,8 +25,4 @@ Enjoy playing the Bubble Game!
 
 ## Author
 
-- [Arslan Arsal](https://github.com/Arslanarsal)
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+- [Arslan ](https://github.com/Arslanarsal)
